@@ -24,7 +24,7 @@ By using Streamlit framework, create an application that has basic calculator fe
 
 3. Your application should have Titles and necessary cosmetics.
 	
-3. Your repository should have the following file structure:
+3. Your repository should have the following file structure (you can add more necessary files):
 	```
 	.app/
 		|-- main_ui.py
