@@ -16,7 +16,7 @@ By using Streamlit framework, create an application that has basic calculator fe
 1. Please fork this repository and develop the code on it. 
 
 2. Your Calculator should have the following features:
-	- 
+
 	- Addition feature- adding 2 numbers
 	- Substraction feature- substracting 2 numbers
 	- Division feature- dividing 2 numbers
