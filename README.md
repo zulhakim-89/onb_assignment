@@ -28,7 +28,7 @@ By using Streamlit framework, create an application that has basic calculator fe
 5. Your repository should have the following file structure (you can add more necessary files):
 	```
 	app/
-	  |-- main_ui.py				# user-interface (streamlit)
+	  |-- main_ui.py			# user-interface (streamlit)
 	  |-- calculator.py			# backend
 	  |-- utils.py				# utilities
 	|-- README.md
