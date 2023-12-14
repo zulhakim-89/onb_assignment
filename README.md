@@ -20,7 +20,7 @@ For this assignment, you are require to create a simple application in order to 
 ## Project Details
 
 ### Task
-By using Streamlit framework, create an application that has basic calculator features. 
+By using [Streamlit](https://docs.streamlit.io/) framework, create an application that has basic calculator features. 
 
 ### Steps
 
@@ -67,9 +67,9 @@ By using Streamlit framework, create an application that has basic calculator fe
 
 ## Todo
 
-* [ ] Use git add, git commit, git push, git pull
-* [ ] Use git commit convention
-* [ ] Use virtual environment
-* [ ] Implement modularization 
-* [ ] Implement UI from Streamlit
-* [ ] Write well documented functions (dostring)
+* [ ] You git this! Use git add, git commit, git push, git pull.
+* [ ] Clear message is important. Use git commit convention.
+* [ ] Avoid global pollution. Use virtual environment. 
+* [ ] Hell no scripts chaos! Implement modularization.
+* [ ] Serve your app. Implement user interface from Streamlit.
+* [ ] Help your future self! Write well documented functions (dostring)
