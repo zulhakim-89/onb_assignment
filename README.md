@@ -2,7 +2,7 @@
 
 Congratulation for successfully completed the Git and Github onboarding session. 🎉 
 
-Now you are required to create a simple application in order to practice the Git knowledge that you have learned. Practice make perfect, right?
+For this assingment, you need to create a simple application in order to practice the Git knowledge that you have learned. Practice make perfect, right?
 
 > 🚨 Read the Objective before you go straight to the project details. 
 
