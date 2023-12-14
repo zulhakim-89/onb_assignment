@@ -1,6 +1,13 @@
-# Objective
+# Git and Github Assingment
 
-> 🚨 Read the objective of the project before you go straight to the project details. 
+Congratulation for successfully completed the Git and Github onboarding session. 🎉 
+
+Now you are required to create a simple application in order to practice the Git knowledge that you have learned. Practice make perfect, right?
+
+> 🚨 Read the Objective before you go straight to the project details. 
+
+
+## Objective
 
 1. To implement the Git and Github knowledge in application development.
 2. To implement [Git commit convention](https://www.conventionalcommits.org/en/v1.0.0/). 
@@ -37,16 +44,16 @@ By using Streamlit framework, create an application that has basic calculator fe
 2. Your repository should have the following file structure (you can add more necessary files):
 	```
 	onb_assingment/
-			|-- README.md
-			|-- .gitignore
-			|-- LICENSE
-			|-- requirements.txt
-			app/
-				|-- main_ui.py				# user-interface (streamlit)
-				|-- calculator.py			# backend module
-				|-- utils.py				# helper module
+		|-- README.md
+		|-- .gitignore
+		|-- LICENSE
+		|-- requirements.txt
+		app/
+			|-- main_ui.py				
+			|-- calculator.py			
+			|-- utils.py			
 	```
-	|files|objective|
+	|Files|Description|
 	|--------|---------|
 	|main_ui.py|user-interface (streamlit)|
 	|calculator.py|backend function|
@@ -58,7 +65,7 @@ By using Streamlit framework, create an application that has basic calculator fe
 5. Your function should have docstrings and necessary comments. 
 6. Your application should be friendly user. 
 
-### TODO
+## Goals
 
 * [ ] Use Git Command
 * [ ] Use git add, git commit, git push, git pull
