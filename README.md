@@ -1,10 +1,10 @@
-# Git and Github Assingment
+# Git and Github Assignment
 
 Congratulation for successfully completed the Git and Github onboarding session. 🎉 
 
-For this assingment, you need to create a simple application in order to practice the Git knowledge that you have learned. Practice make perfect, right?
+For this assignment, you are require to create a simple application in order to practice the Git knowledge that you have learned. Practice make perfect, right?
 
-> 🚨 Read the Objective before you go straight to the project details. 
+> 🚨 Read the Objective before you go straight to the Project Details. 
 
 
 ## Objective
@@ -17,14 +17,14 @@ For this assingment, you need to create a simple application in order to practic
 5. To implement [modularization](https://blog.inedo.com/python/modularization-and-packages/) and single responsibility design (SOLID).
 6. To write a [well-documented](https://peps.python.org/pep-0257/) applications. 
 
-## Streamlit App: MyCalculator
+## Project Details
 
 ### Task
 By using Streamlit framework, create an application that has basic calculator features. 
 
 ### Steps
 
-1. **Fork** this repository and develop the code on it. 
+1. **Fork** this repository and clone the repository. 
 2. Create a `virtual environment` and activate it before start installing project packages. [Read more](https://realpython.com/python-virtual-environments-a-primer/)
 
 3. Develop calculator app should have the following features:
@@ -60,15 +60,16 @@ By using Streamlit framework, create an application that has basic calculator fe
 	|utils.py|helper function|
 	|requirements.txt|list of libraries|
 
-3. Your function or method line should be within your palm size. 
-4. Your apps should use modularization by separating function into smaller size.s
+3. Your functions or methods should be within your palm size. 
+4. Your apps should use modularization by separating function into smaller size.
 5. Your function should have docstrings and necessary comments. 
 6. Your application should be friendly user. 
 
-## Goals
+## Todo
 
-* [ ] Use Git Command
 * [ ] Use git add, git commit, git push, git pull
+* [ ] Use git commit convention
+* [ ] Use virtual environment
 * [ ] Implement modularization 
-* [ ] Write well documented functions (dostring)
 * [ ] Implement UI from Streamlit
+* [ ] Write well documented functions (dostring)
