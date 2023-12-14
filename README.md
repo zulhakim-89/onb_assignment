@@ -1,42 +1,67 @@
 # Objective
-1. To implement the Git and Github knowledge in production. 
+
+> 🚨 Read the objective of the project before you go straight to the project details. 
+
+1. To implement the Git and Github knowledge in application development.
+2. To implement [Git commit convention](https://www.conventionalcommits.org/en/v1.0.0/). 
 2. To learn fundamentals of application deployment. 
-3. To learn software engineer adaptation practice. 
-4. To learn about PR and code review. 
-5. To implement modularization, single responsibility (SOLID) and low decoupling, high cohesion design. 
-6. To write a well-documented applications. 
+3. To learn software engineer adaptation practices. 
+4. To learn about Pull Request and code review. 
+5. To implement [modularization](https://blog.inedo.com/python/modularization-and-packages/) and single responsibility design (SOLID).
+6. To write a [well-documented](https://peps.python.org/pep-0257/) applications. 
 
-# Streamlit App: MyCalculator
+## Streamlit App: MyCalculator
 
-## Task
+### Task
 By using Streamlit framework, create an application that has basic calculator features. 
 
-## Requirements
+### Steps
 
-1. Please fork this repository and develop the code on it. 
-2. Please create `virtual environment` and activate it before start installing project packages. [Read more](https://realpython.com/python-virtual-environments-a-primer/)
+1. **Fork** this repository and develop the code on it. 
+2. Create a `virtual environment` and activate it before start installing project packages. [Read more](https://realpython.com/python-virtual-environments-a-primer/)
 
-3. Your Calculator App should have the following features:
+3. Develop calculator app should have the following features:
 
-	- Addition feature- adding 2 numbers
-	- Substraction feature- substracting 2 numbers
-	- Division feature- dividing 2 numbers
-	- Multiplication feature- multiplying 2 numbers
+	* [ ] Addition feature- adding 2 numbers
+	* [ ] Substraction feature- substracting 2 numbers
+	* [ ] Division feature- dividing 2 numbers
+	* [ ] Multiplication feature- multiplying 2 numbers
 
-4. Your application should have Titles and necessary UI cosmetics.
+4. Deploy your apps on Streamlit Cloud.
+5. Share the deployed apps URL in the Pull Request.
+
+### Requirements
+
+1. Your application should have **Titles** and necessary UI cosmetics.
 	
-5. Your repository should have the following file structure (you can add more necessary files):
+2. Your repository should have the following file structure (you can add more necessary files):
 	```
-	app/
-	  |-- main_ui.py			# user-interface (streamlit)
-	  |-- calculator.py			# backend
-	  |-- utils.py				# utilities
-	|-- README.md
-	|-- .gitignore
-	|-- LICENSE
-	|-- requirements.txt
+	onb_assingment/
+			|-- README.md
+			|-- .gitignore
+			|-- LICENSE
+			|-- requirements.txt
+			app/
+				|-- main_ui.py				# user-interface (streamlit)
+				|-- calculator.py			# backend module
+				|-- utils.py				# helper module
 	```
-6. Your function or method line should be within your palm size. 
-7. Your function should apply single responsibility methodology. 
-8. Your function should have docstring and necessary comment. 
-9. Your application should be friendly user. 
+	|files|objective|
+	|--------|---------|
+	|main_ui.py|user-interface (streamlit)|
+	|calculator.py|backend function|
+	|utils.py|helper function|
+	|requirements.txt|list of libraries|
+
+3. Your function or method line should be within your palm size. 
+4. Your apps should use modularization by separating function into smaller size.s
+5. Your function should have docstrings and necessary comments. 
+6. Your application should be friendly user. 
+
+### TODO
+
+* [ ] Use Git Command
+* [ ] Use git add, git commit, git push, git pull
+* [ ] Implement modularization 
+* [ ] Write well documented functions (dostring)
+* [ ] Implement UI from Streamlit
